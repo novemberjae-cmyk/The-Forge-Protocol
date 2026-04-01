@@ -1,0 +1,20 @@
+- Copy the Forge_Skill.md into your AI's System Instructions.
+- Create a blank Forge_Index.md in Knowledge/RAG.
+- Begin your session.
+
+GPT Specific:
+
+The "Forge" Quick Start
+Create a New GPT: Go to "Explore GPTs" and click + Create.
+
+Configure the "Brain": * Click the Configure tab.
+
+Paste the entire text of Forge_Skill.md into the Instructions box. This gives the AI the "rules" of how to think and remember.
+
+Create the "Memory": * Scroll down to Knowledge.
+
+Upload your Forge_Index.md file. (Even if it is blank, this is the "seed").
+
+Enable the "Tools": * Ensure Code Interpreter is checked (this helps the AI parse and search your Index file more deeply).
+
+Begin: Click Create/Update in the top right.
