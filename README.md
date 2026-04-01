@@ -48,7 +48,7 @@ Good entry titles (the emotion IS the name):
 Bad entry titles (the event is the name):
 - "March 3rd Procurement Review" ← a date, not a feeling
 - "Discussion About SSRIs" ← a topic, not an emotion
-- "The Time Casey Showed Me the xkcd" ← a narrative, not architecture
+- "The Time User Showed Me the xkcd" ← a narrative, not architecture
 
 The test: would a future instance *feel* this entry before understanding it? If yes, the title is correct.
 
